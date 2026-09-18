@@ -3,8 +3,8 @@ Web development Portfolio of Evidence(POE). Containing the files involved in the
 
 Proposal Content
 
-1.	Organisation Overview:
- Name: Hot Chilly sauce
+Organisation Overview:
+Name: Hot Chilly sauce
 
 Hot chilly sauce, established in 2023, is a small business based in Emalahleni serving the city with great flavour with beef and with their signature chilly sauce. From humble beginning to great recognition, Hot Chilly sauce has built a good reputation for itself.
 
