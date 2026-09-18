@@ -9,8 +9,8 @@ l	Hot chilly sauce, established in 2023, is a small business based in Emalahleni
 l	The organisation’s primary goal was to build a side income for the owner and his family, a year later it grew to be well recognised in the city of Emalahleni. This led to more customers, building and maintaining a good customer base. With the increase in demand, there is also an increase in competition. With that in mind Hot Chilly sauce works to collaborate with people and  events such as establishing a good relationship with people in retail outlets, adding some zest into their lunch, as well as serving events such as a braai, delivering good chilly and good beef. Through such a mission and vision, the business can reach great heights.
 l	Hot Chilly sauce is for everyone with the will to try new flavors. The business also works to collaborate with owners of fast food stalls and events such as catering sevices, and any other establishment on call.
 
-  Website Goals and Objectives
-·	The primary goal of Hot Chilly sauce developing a website is to gain reach as well as increase customer base. It aims to promote itself through an online presence, which will lead to greater recognition and better collaboration. According to Experian(2021) having a website and ensuring good activity on relevant social media platforms, are both key to building a strong online presence.
+Website Goals and Objectives
+The primary goal of Hot Chilly sauce developing a website is to gain reach as well as increase customer base. It aims to promote itself through an online presence, which will lead to greater recognition and better collaboration. According to Experian(2021) having a website and ensuring good activity on relevant social media platforms, are both key to building a strong online presence.
 ·	The website’s KPIs will be monitored by the owner and the developer, KPIs such as the number of new customers that visit the website on a daily, weekly, monthly and yearly basis(traffic), in the same manner with sales and inventory. Emphasis by ignition (2026), the right system can help you maximize revenue and scale confidently.
 
 Proposed Website Features and Functionality
